@@ -6,9 +6,13 @@ This repository contains MATLAB code to simulate and visualize the Rössler Attr
 
 dx/dt = -y - z
 
+
 dy/dt = x + a * y
 
+
 dz/dt = b + z * (x - c)
+
+
 
 ![Rössler Attractor](Rossler.png)
 
