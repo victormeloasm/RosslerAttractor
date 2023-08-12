@@ -5,7 +5,9 @@
 This repository contains MATLAB code to simulate and visualize the Rössler Attractor in 3D. The Rössler Attractor is a well-known chaotic dynamical system that exhibits intricate and complex behavior. This simulation uses the Euler method to numerically integrate the system's equations and visualize the resulting trajectory.
 
 dx/dt = -y - z
+
 dy/dt = x + a * y
+
 dz/dt = b + z * (x - c)
 
 ![Rössler Attractor](Rossler.png)
